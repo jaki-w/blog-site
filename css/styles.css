@@ -1,7 +1,16 @@
 .important {
   color: red;
+  text-align: center;
 }
 
-.unimportant {
-  color: blue;
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: #D8FAF9;
+}
+
+.leftside {
+  width: 50%;
+  float: left;
+  background-color: yellow;
 }
