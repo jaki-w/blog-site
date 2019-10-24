@@ -29,5 +29,6 @@ body {
   boder: 2px solid #D7D5E8;
   padding: 4px;
   background-color: #D7D5E8;
-  margin: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
